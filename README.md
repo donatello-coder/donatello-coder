@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @donatello-coder
-- 👀 I’m interested in lerning each time for for my university!
+- 👀 I’m interested in lerning more and more for for my university!
 - 🌱 I’m currently learning pithon
-- 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me ...
-- ⚡ Fun fact: the legend of zelda is god 
+- 💞️ I’m looking to collaborate on nothing i hoppe, for now not, probably?
+- 📫 How to reach me ?????
+- ⚡ Fun fact: the legend of zelda is best game ever
 
 <!---
 donatello-coder/donatello-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
