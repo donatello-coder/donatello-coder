@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donatello-coder
 - 👀 I’m interested in lerning more and more for for my university!
-- 🌱 I’m currently learning pithon
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing i hoppe, for now not, probably?
 - 📫 How to reach me ?????
 - ⚡ Fun fact: the legend of zelda is best game ever
